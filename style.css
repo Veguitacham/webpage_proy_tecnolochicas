@@ -1,0 +1,29 @@
+body{
+
+background-color: rgb(199, 245, 207);
+color: rgb(63, 20, 220);
+font-family: 'Red Hat Display', sans-serif;
+font-size: large;
+}
+
+.titulo{color: chocolate;}/*no siempre se requiere el puntito, ya que esatá llamando al elemento en específico, al que le definimos la clase "titulo"*/
+
+h2{color: darkgreen;}
+
+.imagen1{
+    width: 10 px;
+}
+
+/*img{} aplica a todas las imagenes*/
+
+/*.imagen2{
+    height: 50 px;
+}
+*/
+
+/* esto es un comment*/
+
+/*selector  {
+    propiedad: valor;
+}
+*/ 
